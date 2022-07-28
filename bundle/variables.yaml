@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-ci4
+- admin-user: asantra1-admin
+- manager-user: asantra1
